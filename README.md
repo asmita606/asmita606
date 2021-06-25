@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asmita606
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Asmita
+- 👀 I’m interested in Computational Statistics, Data Science and Applied Probability
+- 🌱 I’m currently learning Topological Data Analysis
+- 💞️ I’m looking to collaborate on projects where I can utilize my expertise and enhance my skillset
+- 📫 You can reach me at asmitag@bgsu.edu
 
 <!---
 asmita606/asmita606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
