@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Asmita
-- 👀 I’m interested in Computational Statistics, Data Science and Applied Probability
-- 🌱 I’m currently working towards my dissertation on simultaneous statistical inference
-- 💞️ I’m looking to collaborate on projects where I can utilize my expertise and enhance my skillset
+- 👀 I’m interested in Computational Statistics, Machine Learning and Applied Probability
+- 🌱 I’m currently working as a Data Scientist in the financial industry
+- 💞️ I’m looking to collaborate on research projects where I can utilize my expertise and enhance my skillset
 - 📫 You can reach me at asmitag@bgsu.edu
 
 <!---
